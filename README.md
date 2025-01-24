@@ -8,11 +8,9 @@ As a data analyst, my objective was to transform raw music streaming data into m
 
 This dashboard provides a comprehensive view of music streaming activity, allowing stakeholders to explore different platforms, track performance over time, and make data-driven decisions. The final interactive report allows easy filtering by artist, track, platform, and year, ensuring that the analysis is both detailed and actionable.
 
-- [Data Cleaning & EDA](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/data-cleaning-and-eda-spotify.ipynb)
-  
-- [Dataset here](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv)
-  
-- [Power Bi Dashboard](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Music-Stream-Dashboard.pdf)
+- Music Stream [Data Cleaning & EDA](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/data-cleaning-and-eda-spotify.ipynb)
+- Music Stream [Dataset](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv)
+- Music Stream [Power Bi Dashboard](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Music-Stream-Dashboard.pdf)
 
 # **DATA STRUCTURE**
 
@@ -47,7 +45,7 @@ The dataset used in this analysis contains detailed information about music stre
 - **YouTube Playlist Reach**: The total reach (number of users) of all playlists the track has been added to on YouTube.
 - **YouTube Views**: The number of views a track’s video has received on YouTube.
 
-[Dataset here](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv)
+- Music Stream [Dataset](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv)
 
 # **EXECUTIVE SUMMARY**
 
@@ -82,7 +80,7 @@ The Trends page provides a more detailed look at the performance of music stream
 
 These insights help identify significant trends in music streaming, such as seasonal spikes in streaming activity and shifts in platform usage over the years.
 
-[Power Bi Dashboard](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Music-Stream-Dashboard.pdf)
+- Music Stream [Power Bi Dashboard](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Music-Stream-Dashboard.pdf)
 
 # **Data Cleaning & EDA**
 
@@ -95,7 +93,7 @@ We performed comprehensive data cleaning to ensure the accuracy and reliability 
 
 This thorough data cleaning process laid the foundation for the creation of our interactive Power BI dashboard, allowing stakeholders to make informed decisions based on clean and reliable data.
 
-[Data Cleaning & EDA](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/data-cleaning-and-eda-spotify.ipynb)
+- Music Stream [Data Cleaning & EDA](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/data-cleaning-and-eda-spotify.ipynb)
 
 ## **Recommendation**
 
@@ -118,8 +116,6 @@ Based on the insights gathered, it's clear that music streaming trends are influ
 
 As a data analyst, I have carefully analyzed the streaming trends across multiple platforms, uncovering valuable insights into the performance of artists and their music. Our findings highlight top artists such as Taylor Swift, Drake, and BTS, along with peak streaming periods like January and 2020, particularly for Spotify and YouTube. Through thorough data cleaning and the removal of outliers, I ensured that the insights provided are both accurate and meaningful. This dashboard is designed to give stakeholders a clear understanding of current trends, allowing for informed decision-making and strategy development moving forward.
 
-- [Data Cleaning & EDA](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/data-cleaning-and-eda-spotify.ipynb)
-
-- [Dataset here](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv)
-
-- [Power Bi Dashboard](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Music-Stream-Dashboard.pdf)
+- Music Stream [Data Cleaning & EDA](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/data-cleaning-and-eda-spotify.ipynb)
+- Music Stream [Dataset](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Most%20Streamed%20Spotify%20Songs%202024.csv)
+- Music Stream [Power Bi Dashboard](https://github.com/NishaChandila/Data-Cleaning-and-EDA-Spotify-/blob/main/Music-Stream-Dashboard.pdf)
